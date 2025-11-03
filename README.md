@@ -75,5 +75,5 @@ This project is released under the MIT License. You are free to use, modify, and
 
 For questions or collaboration opportunities, please contact:  
 **Quinto Juma**  
-Email: [jmeltus@icipe.org]  
+Email: [jmeltus@icipe.com] or [meltusquinto@gmail.com]  
 Affiliation: International Centre of Insect Physiology and Ecology (icipe)
